@@ -152,7 +152,7 @@ admin.sessions.add(options)
     <th align="left"><code>options.auth</code></th>
     <td>Object</td>
     <td>Can be <code>username</code> and <code>password</code> or <code>session</code>. If not set, will use <code>options.auth</code> from 
-      [Constructor](#constructor)</td>
+      <a href = "#Constructor"> constructor</a></td>
     <td>No</td>
   </tr>
 </table>
